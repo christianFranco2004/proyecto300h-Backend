@@ -1,51 +1,48 @@
-<h1>Ecommerce licorera</h1>
+<h1>🏃‍♂️ Ecommerce de Zapatos Deportivos - URBANFOOT 👟</h1>  
+
 <hr>
-<h3>Objetivo del proyecto</h3>
-Nuestro proyecto esta enfocado en generar un aplicativo web que facilite al usuario realizar compras de una manera sencilla e intuitiva, y tambien se busca ofrecer una plataforma que facilite la interacción entre los usuarios y los servicios relacionados con la venta, distribución o promoción de licores.
+<p>¡Bienvenido a [Nombre de tu Empresa], tu tienda en línea de confianza para zapatos deportivos de alta calidad! 🛒👟
+En este ecommerce, ofrecemos una experiencia de compra fácil y rápida, con un catálogo diverso de productos pensados para todos los amantes del deporte y el estilo. ¡Corre, salta y entrena con los mejores zapatos!</p>
+
+<hr>
+⚙️<h3> Tecnologías Utilizadas</h3>
+<p>
+Este proyecto está construido con un stack tecnológico moderno para garantizar una experiencia de usuario fluida y un código mantenible:
+
+HTML 🧑‍💻: Estructura básica del sitio web.
+CSS 🎨: Diseño visual atractivo y responsive.
+Angular 🔥: Framework para crear interfaces de usuario dinámicas y ricas en funcionalidades.
+Node.js 🚀: Entorno de backend para manejar las peticiones y lógica del servidor.
+MongoDB 🗃️: Base de datos NoSQL para almacenar productos, usuarios y pedidos.
+TypeScript ⚡: Mejora la calidad del código con tipado estático.
+Postman 🛠️: Herramienta para probar nuestras APIs y asegurarnos de que todo funcione correctamente.</p>
+<hr>
+
+<h3>💡 Características</h3>
 <br>
+<h6>Página Principal 🌐</h6>
+Vistazo rápido a los productos destacados, categorías y promociones.
+Barra de navegación intuitiva: categorías, carrito de compras, contacto.
+<hr>
+<h6>Catálogo de Productos 🛍️</h6>
+Filtros inteligentes: busca por tamaño, marca, precio y más.
+Paginación y búsqueda dinámica para facilitar la navegación.
+<hr>
+<h6>Detalles de Producto 📦</h6>
+Información completa: descripción, imágenes de alta calidad, tallas y colores.
+Agregar al carrito con un solo clic.
+<hr>
+<h6>Formularios de registro</h6>
+En este componente nos ayudara tanto como para registrarnos como para iniciar sesion.
+<hr>
+<h6>Autenticación y Gestión de Usuarios 🔒</h6>
+Registro y login de usuarios para compras más rápidas.
+Gestión de perfil y visualización de historial de compras.
+<hr>
+<h6>Panel de Administración 🛠️</h6>
+Administradores pueden agregar, editar y eliminar productos fácilmente.
+Visualización y gestión de pedidos.
+
+<h3>Autores</h3>
 <br>
-
-<b>1. Venta de Licores en Línea:</b>
-<li>Permitir a los usuarios comprar licores desde la comodidad de su hogar.
-<li>Mostrar un catálogo amplio de productos con descripciones detalladas, precios y ofertas.
-<hr>
-
-<b>2. Promoción de Marcas o Productos:</b>
-<li>Mostrar contenido atractivo sobre licores, como nuevos lanzamientos, ediciones limitadas.
-<hr>
-
-<b>3. Gestión de Inventario y Distribución:</b>
-<li>Optimizar los procesos logísticos relacionados con el almacenamiento y la distribución.
-<hr>
-
-<b>4. Educación y Experiencia del Cliente:</b>
-<li>Proveer información sobre cada producto.
-<hr>
-
-<b>5. Cumplimiento Legal y Promoción Responsable:</b>
-<li>Asegurar que la venta de licores cumpla con las regulaciones legales del país o región.
-<hr>
-<h3>Cómo ejecutar su proyecto</h3>
-<br>
-Para la ejecucion de nuestro proyecto creamos un archivo llamado <b>app.js</b>, el cual es el archivo de ejecucion de nuestro aplicativo web y en el configuramos nuestro servidor con <b>express</b> y gestionamos la logica de negocio como lo es la conexion a la bases de datos, ya cuando tengamos todas las dependencias y demas carpetas listas abrimos la terminal con el atajo <b>Ctrl + ñ</b> cuando ya estemos ahi escribimos el siguiente comando <b>npm run dev</b>, y si todo esta funcionando correctamente nos saldra el siguiente mensaje <b>se esta ejecutando el puerto 6000,
-conexion exitosa con la base de datos.</b>
-<hr>
-<h3>Descripción de roles de cada participante</h3>
-<li><b>Scrum master:</b>Andrey Parra
-<br>
-<li><b>Developer:</b>Christian Franco
-<br>
-<li><b>Developer:</b>Sebastian Cardona
-<hr>
-<h3>Tecnologías utilizadas</h3>
-<li>JavaScript
-<li>Mongoose
-<li>Mongo DB
-<li>Express
-<li>Nodemon
-<li>Dotenv
-<li>Jsonwebtoken
-
-
-
-
+<p>Realizado por Christian Franco y Sebastian Cardona.</p> 
